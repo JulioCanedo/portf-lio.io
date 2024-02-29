@@ -1,4 +1,4 @@
-Tecinologias usadas:
+Tecnologias usadas:
 
 HTML
 CSS
